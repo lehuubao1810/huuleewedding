@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Le Huu",
-  description: "Le Huu - Nhiếp ảnh gia chuyên ghi lại những khoảnh khắc đầy cảm xúc và sống động qua từng khung hình.",
+  title: "HuuLee - Wedding",
+  description: "Nhiếp ảnh gia chuyên ghi lại những khoảnh khắc đầy cảm xúc và sống động qua từng khung hình.",
 };
 
 export default function RootLayout({
